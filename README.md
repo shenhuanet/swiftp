@@ -4,7 +4,7 @@ An FTP Server for your android device.
 
 ----------
 
-I (Dave) don't have time to maintain SwiFTP, and since it's a few years since the last update, I'm declaring it dead. However, Pieter Pareit has forked a new version at [](http://ppareit.github.com/swiftp/) with some badly needed interface improvements.
+I (Dave) don't have time to maintain SwiFTP, and since it's a few years since the last update, I'm declaring it dead. However, Pieter Pareit has forked a new version at http://ppareit.github.com/swiftp/ with some badly needed interface improvements.
 
 ### Description
 
